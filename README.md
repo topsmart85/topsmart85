@@ -1,57 +1,100 @@
-# Welcome
+# 👋 Welcome to my github page! <br />
 
-Am a senior Backend & Blockchain engineer who likes to work with C++, Python, JavaScript, Rust and Blockchain(Solana, Terra, Ethereum).
-Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
+I am a diligent software engineer and avid open source developer with over 5 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
-<img align="right" alt="GIF" src="https://github.com/devgod1007/devgod1007/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
-:small_blue_diamond: :muscle: As a professional backend developer, have over 7+ years of experience in backend and blockchain field.
 
-:small_blue_diamond: 🤔 I’m looking to help with building web apps and Defi 
+## Favorite Saying 👍
 
-:small_blue_diamond: 💬 Ask me about backend and blockchain development
+```rust
+/// Yeskent's motto
+struct Yeskent;
 
-### Languages and Tools:
+impl Yeskent {
+  /// Return Yeskent quote
+  fn said(&self) -> &str {
+    "Most good programmers do programming not because they expect to get paid /
+     or get adulation by the public, but because it is fun to program."
+  }
+}
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+fn main() {
+  let yes_kent = Yeskent;
 
-#### Web & Mobile Development
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=skyblue&color=skyblue)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=lightgreen&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=red&color=red)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=skyblue&color=skyblue)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=skyblue&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=blue)
+  println!("Yeskent - {}", yes_kent.said());
+}
+```
 
-#### Blockchain Development
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+## ⚡ My Skills
+<br />
 
-#### Other
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-
+<table align="center">
+  <tr>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="45" height="45" />
+        <br>Javascript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
+        <br>Typescript
+      </td>
+      <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+        <br>React
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+        <br>Vue
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+        <br>Nuxt.js
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+        <br>Angular
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+        <br>Three.js
+      </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+            <br>Rust
+          </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+          <br>Python
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
+            <br>C#
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
+            <br>Go
+        </td>
+        <td align="center" width="90">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+          <br>Django
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+          <br>Laravel
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+          <br>WordPress
+        </td>
+    </tr>
+</table>
+<h2></h2>
