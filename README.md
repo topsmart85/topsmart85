@@ -7,11 +7,11 @@ I am a diligent software engineer and avid open source developer with over 5 yea
 ## Favorite Saying 👍
 
 ```rust
-/// Yeskent's motto
-struct Yeskent;
+/// topsmart's motto
+struct topsmart;
 
-impl Yeskent {
-  /// Return Yeskent quote
+impl topsmart {
+  /// Return topsmart quote
   fn said(&self) -> &str {
     "Most good programmers do programming not because they expect to get paid /
      or get adulation by the public, but because it is fun to program."
@@ -19,9 +19,9 @@ impl Yeskent {
 }
 
 fn main() {
-  let yes_kent = Yeskent;
+  let top_smart = topsmart;
 
-  println!("Yeskent - {}", yes_kent.said());
+  println!("topsmart - {}", top_smart.said());
 }
 ```
 
